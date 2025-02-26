@@ -18,4 +18,4 @@ Advanced topics Speech and Audio Quality
 This practical tutorial contains different sections:
 * **Live coding:** Basic theory, demos and coding examples presented by the lecturer on site (unmarked)
 * **Student activity:** Familiarisation and coding exercises to be completed by the students and followed by a short discussion on site (unmarked). These activities introduce key concepts and skills necessary to complete the assignments.
-* **Assignment:** Two (2) take home problem/coding questions to be completed by the students by (see Unit 2 brightspace). Assignment questions represent fifteen (15) mark points.
+* **Assignment:** Two (2) take home problem/coding questions to be completed by the students.
